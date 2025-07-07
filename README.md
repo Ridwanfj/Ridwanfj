@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hello, I am Ridwan Fajariansyah 👋
+
+![Ridwan](images/frame.png)
 
 <!--
 **Ridwanfj/Ridwanfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+S
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning more about javascript and Bootstrap
+
+![Lawliet](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlpa3Izcm80dnFudDA5eDB3enRmM3ZlbDI3cHNweDVqdGttemNqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif)
